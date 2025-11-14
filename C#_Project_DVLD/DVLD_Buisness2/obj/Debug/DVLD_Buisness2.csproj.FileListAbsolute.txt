@@ -1,0 +1,2 @@
+D:\C#\DVLD_Buisness2\obj\Debug\DVLD_Buisness2.csproj.AssemblyReference.cache
+D:\C#\DVLD_Buisness2\obj\Debug\DVLD_Buisness2.csproj.CoreCompileInputs.cache
